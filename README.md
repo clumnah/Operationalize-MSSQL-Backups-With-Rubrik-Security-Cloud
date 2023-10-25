@@ -10,3 +10,4 @@ This set of notebooks is desgined to take you through the steps to automate and 
 - [Get Information about a SQL Server Instance](./content/003.Get-RscMssqlInstance.ipynb)
 - [Get Information about a SQL Server Database](./content/004.Get-RscMssqlDatabase.ipynb)
 - [Take an On Demand Snapshot of a MSSQL Database](./content/005.New-RscMssqlSnapshot.ipynb)
+- [Take an On Demand Log Backup of a MSSQL Database](./content/006.New-RscMssqlLogBackup.ipynb)
