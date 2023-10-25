@@ -5,6 +5,7 @@ This set of notebooks is desgined to take you through the steps to automate and 
 
 # Table of Contents
 - [Getting Started](./content/000.GettingStarted.ipynb)
-- [Connect to Rubrik Security Cloud](./content/001.ConnectToRubrikSecurityCloud.ipynb)
-- [Get an Inventory of all MSSQL Parent Objects](./content/002.GetInformationAboutTheSQLServerInstance.ipynb)
+- [Connect to Rubrik Security Cloud](./content/001.Connect-Rsc.ipynb)
+- [Get Information about a Rubrik Cluster](./content/002.Get-RscCluster.ipynb)
+- [Get Information about a SQL Server Instance](./content/003.Get-RscMssqlInstance.ipynb)
 - [Get Information about a SQL Server Database](./content/003.GetInformationAboutTheSQLServerDatabase.ipynb)
