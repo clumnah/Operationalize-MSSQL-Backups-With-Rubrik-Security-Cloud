@@ -13,3 +13,6 @@ This set of notebooks is desgined to take you through the steps to automate and 
 - [Take an On Demand Log Backup of a MSSQL Database](./content/006.New-RscMssqlLogBackup.ipynb)
 - [Get a MSSQL Database Recovery Point](./content/007.Get-RscMssqlDatabaseRecoveryPoint.ipynb)
 - [Initiate a in place restore of a MSSQL Database](./content/008.New-RscMssqlRestore.ipynb)
+- [get database files]
+- [Export]
+- [Initiate a in place restore of a MSSQL Database](./content/011.New-RscMssqlLiveMount.ipynb)
