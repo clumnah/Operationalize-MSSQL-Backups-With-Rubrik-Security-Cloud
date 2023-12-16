@@ -16,3 +16,6 @@ This set of notebooks is desgined to take you through the steps to automate and 
 - [Get-RscMssqlDatabaseFiles](./content/009.Get-RscMssqlDatabaseFiles.ipynb)
 - [New-RscMssqlExport](./content/010.New-RscMssqlExport.ipynb)
 - [New-RscMssqlLiveMount](./content/011.New-RscMssqlLiveMount.ipynb)
+- [Get-RscMssqlLiveMount](./content/012.Get-RscMssqlLiveMount.ipynb)
+- [Remove-RscMssqlLiveMount](./content/013.Remove-RscMssqlLiveMount.ipynb)
+- [Set-RscMssqlDatabase](./content/014.Set-RscMssqlDatabase.ipynb)
