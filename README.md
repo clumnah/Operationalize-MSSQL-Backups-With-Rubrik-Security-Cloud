@@ -26,7 +26,7 @@ This set of notebooks is desgined to take you through the steps to automate and 
 ## Common cmdlets
 - [Connect-Rsc](./content/Connect-Rsc.ipynb)
 - [Get-RscCluster](./content/Get-RscCluster.ipynb)
-## SQL Server Specific
+## SQL Server
 - [Get-RscMssqlDatabase](./content/Get-RscMssqlDatabase.ipynb)
 - [Get-RscMssqlDatabaseFiles](./content/Get-RscMssqlDatabaseFiles.ipynb)
 - [Get-RscMssqlDatabaseRecoveryPoint](./content/Get-RscMssqlDatabaseRecoveryPoint.ipynb)
