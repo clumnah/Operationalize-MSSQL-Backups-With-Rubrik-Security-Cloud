@@ -21,9 +21,15 @@ This set of notebooks is desgined to take you through the steps to automate and 
 1. [Fetching data using the Rubrik Security Cloud PowerShell SDK](https://youtu.be/EDnpQpll4N8?si=kcSNt73xXB686gNs)
 
 # Table of Contents
-- [Getting Started](./content/000.GettingStarted.ipynb)
-- [Connect-Rsc](./content/001.Connect-Rsc.ipynb)
-- [Get-RscCluster](./content/002.Get-RscCluster.ipynb)
+## Getting Started
+- [Getting Started](./content/GettingStarted.ipynb)
+## Common cmdlets
+- [Connect-Rsc](./content/Connect-Rsc.ipynb)
+- [Get-RscCluster](./content/Get-RscCluster.ipynb)
+## SQL Server Specific
+## Managed Volume
+
+
 - [Get-RscMssqlInstance](./content/003.Get-RscMssqlInstance.ipynb)
 - [Get-RscMssqlDatabase](./content/004.Get-RscMssqlDatabase.ipynb)
 - [New-RscMssqlSnapshot](./content/005.New-RscMssqlSnapshot.ipynb)
