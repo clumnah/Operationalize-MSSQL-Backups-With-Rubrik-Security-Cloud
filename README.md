@@ -1,7 +1,7 @@
 # Operationalize-MSSQL-Backups-With-Rubrik-Security-Cloud
 Operationalize MSSQL Backups With Rubrik Security Cloud
 
-This set of notebooks is desgined to take you through the steps to automate and operationalize common tasks DBAs will do day-to-day. 
+This set of notebooks is desgined to take you through the steps to automate and operationalize common tasks DBAs will do day-to-day. This will show basic workflows. You should refer to the help of each cmdlet to create more advanced workflows if required. This is not meant to be an exhaustive document of how to use each cmdlet. 
 
 # Familarize yourself with GraphQL and our APIs
 - [Rubrik Security Cloud](https://www.rubrik.com/blog/technology/23/1/rubrik-security-cloud-transition-from-rest-to-graphql-api): Transition from REST to GraphQL
